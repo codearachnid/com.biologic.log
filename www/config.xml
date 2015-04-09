@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.biologic.log"
+        version     = "0.0.1" >
+    <name>Biologic</name>
+    <description>
+        A simple mobile app to log and graph your arthritis pain and medication, focused for individuals using biologics.
+    </description>
+    <author href="http://www.imaginesimplicity.com" email="tim@imaginesimplicity.com">
+        Timothy Wood @codearachnid 
+    </author>
+
+    <!-- whitelist -->
+    <access origin="*.google.com" />
+    <access origin="*.googleapis.com" />
+    <access origin="*.gstatic.com" />
+    
+    <!-- plugins -->
+    <gap:plugin name="org.apache.cordova.console" />
+    <gap:plugin name="org.apache.cordova.device" />
+    <gap:plugin name="org.apache.cordova.device-orientation" />
+    <gap:plugin name="org.apache.cordova.geolocation" />
+    <gap:plugin name="com.brodysoft.sqliteplugin" />
+    
+
+    <!-- preferences for app -->
+    <preference name="phonegap-version" value="3.7.0" />
+    <preference name="Fullscreen" value="true" />
+    <preference name="WebViewBounce" value="true" />
+    <preference name="detect-data-types" value="false" />
+    <!-- <preference name="auto-hide-splash-screen" value="true" /> -->
+    <preference name="exit-on-suspend" value="false" />
+
+</widget>
