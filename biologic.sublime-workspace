@@ -1,0 +1,753 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"allo",
+				"allow_tracking"
+			],
+			[
+				"att",
+				"attorney_emails"
+			],
+			[
+				"no",
+				"notification"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pritn",
+				"print_r"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"css",
+				"cssClasses"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"field",
+				"field_content"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"D",
+				"DELETE"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fil",
+				"filtered_url"
+			],
+			[
+				"__re",
+				"__return_true"
+			],
+			[
+				"clea",
+				"clean_url"
+			],
+			[
+				"loc",
+				"locksmith"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_style"
+			],
+			[
+				"legull",
+				"legull_docs"
+			],
+			[
+				"cond",
+				"condition_value"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_script"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"evnet",
+				"events_posts"
+			],
+			[
+				"date_",
+				"date_matches"
+			],
+			[
+				"date",
+				"date_matches"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"sec",
+				"sections"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"filter_q",
+				"filter_query"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"sub",
+				"submitted_fields"
+			],
+			[
+				"ob_g",
+				"ob_get_clean"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"file_",
+				"file_exists"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"json",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/FA89FB23-625A-48C9-A5FD-4EF6A723188F/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/43BE06B1-4ECF-4DA1-920F-81F55B516ACD/legull-pluginlytics.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/3B30F150-BECE-42EA-9E93-B2AC870AA6D4/legull.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-pluginlytics.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/C365DE51-14BB-4F13-81AF-7CDCED10F943/index.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D684F753-F425-41C5-8A94-C5E0E3544679/legull.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D4127204-F058-41E5-B6B9-E0291363DF16/legull-pluginlytics.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/C6FF0E8F-6E06-4E5A-A1BC-9A6E5BD04FA5/index.php",
+		"/mamp/wp-dev/wp-content/debug.log",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-tags.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/asset/legull-admin-scripts.js",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/8D8CABB0-BDCE-49EC-B63B-C79DDA6192B4/index.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/readme.txt",
+		"/mamp/wp-dev/wp-content/plugins/legull/legull.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/7409F50E-05DE-474E-BA76-F9972A7FA910/legull-pluginlytics.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/33D50023-348F-411C-8B16-FE1EDE96FA90/legull.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/5F9ECCB8-7B2E-4989-B501-00ED7C8D48A1/index.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/66163DC2-3DA5-4079-8ECA-D5099B87D1AC/wp-config.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/template/tracking.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-notices.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/template/dashboard.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/asset/style.css",
+		"/mamp/wp-dev/pluginlytics/index.php",
+		"/mamp/wp-dev/pluginlytics/installed_plugin.log",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/wp-legull-terms-list-table.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/parsedown.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-metabox.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-metabox-integrated-plugins.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-gravityforms.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-cpt.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-conf.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings-mutli-slot/woocommerce-bookings-mulit-slot.php",
+		"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-admin-page-framework/admin-page-framework-include-class-list.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings/woocommmerce-bookings.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AB86A302-A81A-4B6C-B91E-173E41078658/attorney.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/582A3E2B-1C0F-44DC-AEA1-58D097068DFB/template-api-manifest.php",
+		"/Users/codearachnid/Dropbox/wordpress/premium/envira/versions.txt",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings-mutli-slot/time-picker.js",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings/includes/class-wc-product-booking.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings/includes/booking-form/class-wc-booking-form.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings/includes/admin/class-wc-bookings-ajax.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings-mutli-slot/class-wc-booking-form.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings-1.7.2/assets/js/time-picker.js",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings/assets/js/time-picker.js",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/2937BD55-7E31-4961-B83D-F9C0B294A1B4/wp-config.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings-1.7.2/woocommmerce-bookings.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings-mutli-slot/index.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings-1.7.2/includes/admin/class-wc-bookings-menus.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings/assets/js/booking-form.js",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings/includes/admin/class-wc-bookings-admin.php",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings/assets/js/month-picker.js",
+		"/mamp/wp-dev/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D58DBB22-5555-441D-948D-7AAC52DB2FB7/contest-manager.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/38B88C29-5ABD-4499-9807-DBA378D81261/gravity-forms.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/AA60B1C7-0072-4AFA-B345-0CF642FDB36B/header-search-map.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/935386D3-A272-4D1E-BA2C-544F5B03FBDB/wp-google-maps-pro.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/1967D9BC-05EF-47E7-8C9D-F301A0672E13/wp-google-maps-gold.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/0033EE5D-5BD6-4568-9D07-B93B8C8B8918/functions.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/BC2F1CFB-4B51-4BE6-8B47-4E8746B5DA29/locksmith-geo-display.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/4CCCBFA7-C453-42D3-9881-55987E21C4F0/functions.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/A2AEF2A8-B208-4FAC-B973-6832833D1FE6/acf-gravity-forms.php",
+		"/Users/codearachnid/Downloads/Newsmag.News.Magazine.Newspaper.v1.6/child-theme/Newsmag-child/functions.php",
+		"/Users/codearachnid/Downloads/backup-richmondfamilymagazine_com-2015_03_16-db-0p74cbch75/db_1.sql",
+		"/Users/codearachnid/Downloads/backup-richmondfamilymagazine_com-2015_03_16-db-0p74cbch75/dbpart-ae",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/EABC0164-E442-47D3-987F-3E0EE2103A39/wp-cron.php",
+		"/Users/codearachnid/Downloads/backup-richmondfamilymagazine_com-2015_03_16-db-0p74cbch75/dbpart-ah",
+		"/Users/codearachnid/Downloads/backup-richmondfamilymagazine_com-2015_03_16-db-0p74cbch75/dbpart-ad",
+		"/Users/codearachnid/Downloads/backup-richmondfamilymagazine_com-2015_03_16-db-0p74cbch75/[00000]db_1.sql",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/B0C71ED6-4F51-4895-8092-3246524E4604/wp-config.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/plugins/wp-themer/acf-gravity-forms.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/plugins/wp-themer/wp-themer.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/plugins/wp-themer/wp-subordinate-post.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/plugins/wp-themer/gravity-forms.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/plugins/wp-themer/contest-manager.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/plugins/wp-themer/apm-filters.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/template-past-contestants.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/voting-tally.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/single-contest.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/single-contest-applicants.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/single-application.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/page.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/page-vote.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/page-vote-tally.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/page-vote-secured.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/page-test-submissions.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/page-submissions.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/page_vote_winners.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/loop-tedxrva-applicants.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/loop-applicants.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/index.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/functions.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/content-past-contestants.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/content-standard-application.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-content/themes/ie/content-tedxrva-application.php",
+		"/Users/codearachnid/Downloads/ie-rva.org-backup/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/658D50CC-D05A-45BB-8ED5-D1A86F48E60F/style.css",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/59550556-6ADC-4994-BD9F-E004AB6B924C/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/270EE1FB-B565-4B96-B8B3-E0C072D98245/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D0589B35-A9A3-4A66-955A-F0CF450EFC5D/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/733F8C7A-7530-4595-9710-B7057F33B9DE/wp-config.php",
+		"/Users/codearachnid/Downloads/name-generator-script-demo.html",
+		"/mamp/wp-dev/wp-content/plugins/woocommerce/includes/admin/views/html-notice-tracking.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/5E1F5921-04A8-4CC4-92A2-884D1E6F01BE/wpGoogleMaps.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/BD9C20B0-E0BB-447B-A69C-541529C3E116/wp-google-maps-pro.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/C8D6D5D3-75BC-4DD7-B3DE-B1D8CDD225AB/wp-google-maps-gold.php",
+		"/Users/codearachnid/Downloads/cx-logo-inside-nav-master/pootlepress-logo-center.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/536BC4FA-B8F9-46C8-8DF2-2AAC56220EC4/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/21E25340-9566-460C-982D-4E9AE9A19FC6/wp-config.php",
+		"/Users/codearachnid/Downloads/backup-www_hanoveracademy_org-2015_02_26-10_31am-full-bsx4a1eru8/wp-content/deleteme.9e50107b6d3543dcae0726b97e4a145b.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/C30278F1-2D45-4474-9B60-9AB93AB1326A/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/41CC0A74-0A32-445F-9444-54A942F08357/content-tedxrva-application.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/7AAFB882-7778-41AB-BD1F-70204C60A022/loop-tedxrva-applicants.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/4495BD2C-DE99-4950-8506-B50554E7C42A/loop-tedxrva-applicants.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/2D6AF9DF-CEF6-441F-95EC-9F3A6398C0C2/content-tedxrva-application.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/7101E0AE-1207-44A3-970D-F292972E59C7/loop-tedxrva-applicants.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/4B8304BE-CBD8-4228-A889-772EFBF5B262/wp-config.php",
+		"/Users/codearachnid/Downloads/htaccess.txt",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D209DF1A-C38B-4776-827A-021A82A41CC3/footer.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/0102FC95-CFAD-4495-92E6-25F581193CE9/wp-config.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/D4325271-01DB-4BF7-AF7E-367DF207C2AE/gravity-forms.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/502A0756-07A7-4494-8383-EB8E2CE017CB/single-application.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/2C66A4AC-7C8B-4C01-A515-7319394241FD/single-contest-applicants.php",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/76B5A06C-9B10-416A-9F5B-1EAAF1EBF0CC/wp-config.php",
+		"/Users/codearachnid/Downloads/www_rvastudio_com/AddTrustExternalCARoot.crt",
+		"/Users/codearachnid/Downloads/www_rvastudio_com/COMODORSAAddTrustCA.crt",
+		"/Users/codearachnid/Downloads/www_rvastudio_com/COMODORSADomainValidationSecureServerCA.crt",
+		"/Users/codearachnid/Library/Caches/Cleanup At Startup/Transmit/66B28906-FC03-44C9-BB07-3312C9FCBE8E/contest-manager.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/woocommerce",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/legull/lib/legull-admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings",
+			"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings-1.7.2",
+			"/mamp/wp-dev/wp-content/plugins/woocommerce-bookings",
+			"/mamp/wp-dev/wp-content/plugins/woocommerce",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/themes/canvas",
+			"/mamp/WordPress",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/Users/codearachnid/Dropbox/wordpress/gravityforms",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/Users/codearachnid/Dropbox/wordpress/gravityforms",
+			"/mamp/wp-dev/wp-content/plugins/legull/lib",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/Users/codearachnid/Dropbox/wordpress/gravityforms",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/improve-enqueued-asset-urls",
+			"/Users/codearachnid/Downloads/js_composer",
+			"/mamp/wp-dev/wp-content/themes/canvas",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/Users/codearachnid/Downloads/hub",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/legull/docs",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/legull/docs",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/1800unlocks/wp-content/themes/ninezeroseven",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/Users/codearachnid/Dropbox/wordpress/premium/codecanyon/codecanyon-242431-visual-composer-page-builder-for-wordpress/js_composer",
+			"/Users/codearachnid/Dropbox/wordpress/premium/codecanyon/Ultimate Addons for Visual Composer/Latest Version 3.7.0/Ultimate_VC_Addons",
+			"/mamp/wp-dev/wp-content/plugins/the-events-calendar/public/template-tags",
+			"/mamp/wp-dev/wp-content/plugins/the-events-calendar",
+			"/mamp/wp-dev/wp-content/plugins/sabai-directory",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/themes/canvas",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/WordPress",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/WordPress",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/WordPress",
+			"/mamp/wp-dev/wp-content/themes/canvas",
+			"/mamp/wp-dev/wp-content/plugins/eventON",
+			"/mamp/wp-dev/wp-content/plugins/eventon-event-lists",
+			"/mamp/wp-dev/wp-content/plugins/eventON",
+			"/mamp/wp-dev/wp-content/plugins/eventon-event-lists",
+			"/mamp/wp-dev/wp-content/plugins/eventON",
+			"/Users/codearachnid/Downloads/[Eventon]Full.Cal.v0.22/eventon-full-cal",
+			"/mamp/wp-dev/wp-content/plugins/eventON",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework/development",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/admin-page-framework",
+			"/mamp/wp-dev/wp-content/plugins/legull",
+			"/mamp/wp-dev/wp-content/plugins/legull/docs",
+			"/mamp/wp-dev/wp-content/plugins/legull"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$content",
+			"get_all_plugins",
+			"pluginlytics_tracking_data",
+			"legull_hide_dashboard_message",
+			"ajax",
+			"dashboard.php",
+			"legull_hide_dashboard_message",
+			"getting started",
+			"notice",
+			"add_notices",
+			"tracking_notice",
+			"html-notice-tracking",
+			"Want to help make WooCommerce even more awesome",
+			"date",
+			"api_url",
+			"get_user_counts",
+			"get_option",
+			"get_last_send",
+			"analytics",
+			"utility",
+			"admin-page-framework-include-class-list",
+			"admin-page-framework-includes.php",
+			"button",
+			"post-type-legull_terms",
+			"edit",
+			"Legull",
+			"gform_pre_render_3",
+			"gform_pre_render_4",
+			"includes",
+			"$GLOBALS['wc_bookings']",
+			"WC_Bookings",
+			"new WC_Bookings",
+			"includes",
+			"WC_Bookings",
+			"includes'",
+			"includes()",
+			"includes",
+			"class-wc-booking-form.php'",
+			"class-wc-booking-form.php",
+			"wc_bookings_field_start_date_time",
+			"is_bookable",
+			"get_available_bookings",
+			"Sorry, the selected block is not available",
+			"You must choose a future date and time.",
+			"is_bookable",
+			"calculate_booking_cost",
+			"is_bookable",
+			"calculate_costs",
+			"wc_bookings_calculate_costs",
+			"You must choose a future date and time.",
+			"debug",
+			"WC_BOOKINGS_PLUGIN_URL",
+			"calendar_page_scripts",
+			"calendar_page",
+			"output",
+			"scripts",
+			"time-picker",
+			"block",
+			"wc_bookings_field_start_date_time",
+			"suffix",
+			"wc_bookings_field_start_date",
+			"wc_bookings_field_start_date_time",
+			"http://",
+			"jquery-ui",
+			"http:",
+			"wp_enqueue_script",
+			"form_status",
+			"duplicate",
+			"15",
+			"generator",
+			"21",
+			"14",
+			"15",
+			"13",
+			"16",
+			"17",
+			"ct",
+			"19",
+			"17",
+			"16",
+			"13",
+			"15",
+			"14",
+			"21",
+			"WC_Tracker",
+			"Error fetching buckets",
+			"secret",
+			"signature",
+			"get_sdk_requirements_errors",
+			"get_sdk_requirements_error_msg",
+			"debug",
+			"woocommerce_allow_tracking",
+			"notice-tracking",
+			"non-sensitive diagnostic",
+			"body.boxed-layout #top",
+			"main-nav",
+			"#f0f0f0",
+			"background",
+			"768px",
+			"#navigation",
+			"col-full",
+			"#navigation ul",
+			"rtl.css",
+			"768px",
+			"767px",
+			"550px",
+			"767px",
+			"#navigation",
+			"navigation",
+			".nav-toggle",
+			"isnot",
+			"13",
+			"under_13",
+			"fucntions",
+			"container",
+			"filter",
+			"Youtube Link",
+			"application",
+			"insert",
+			"wp_update_post",
+			"after_submission",
+			"gravity_form_voting_check",
+			"insert",
+			"gf_update_subordinate_post",
+			"iecontest_populate_voting",
+			"dev",
+			"post-author",
+			"post-date-author"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Education",
+			"Energy and Green Tech",
+			"Food",
+			"High Tech",
+			"Retail",
+			"Services",
+			"Social Impact",
+			"Services",
+			"Retail",
+			"High Tech",
+			"Food",
+			"Energy and Green Tech",
+			"Education",
+			"550px",
+			"assets",
+			"tmlaw_",
+			"\n",
+			"\\r\\n",
+			"",
+			"',",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "biologic.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
