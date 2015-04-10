@@ -7,6 +7,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <title>Biologics</title>
     <link rel="stylesheet" href="css/framework7.min.css">
+    <link rel="stylesheet" href="css/toast.css"></link>
     <link rel="stylesheet" href="css/app.css">
   </head>
   <body>
@@ -39,6 +40,7 @@
               <div class="content-block-title">Welcome To My Awesome App</div>
               <div class="content-block">
                 <div class="content-block-inner">
+                  <p><a href="#" id="btnshow" class="button">Show toast</a></p>
                   <p>Couple of worlds here because my app is so awesome!</p>
                   <p>Duis sed erat ac eros ultrices pharetra id ut tellus. Praesent rhoncus enim ornare ipsum aliquet ultricies. Pellentesque sodales erat quis elementum sagittis.</p>
                 </div>
@@ -81,9 +83,9 @@
         </div>
       </div>
     </div>
-    <!-- Path to Framework7 Library JS-->
+    <script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="js/framework7.min.js"></script>
-    <!-- Path to your app js-->
+    <script type="text/javascript" src="js/toast.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
   </body>
 </html>
